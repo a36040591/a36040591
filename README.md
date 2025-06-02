@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **.net core 8 MVC**
 
-- 📝 I regularly write articles on [my side project](my side project)
+- 📝 I regularly write articles on my side project
 
 - 📫 How to reach me **a36040591@gmail.com**
 
